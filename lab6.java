@@ -9,7 +9,7 @@ String str;
 int a;
 str="JLC";
 a=99;
-
+int b=99;
 System.out.println(str);
 System.out.println(a);
 }
