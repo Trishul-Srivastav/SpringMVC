@@ -7,7 +7,7 @@ class lab6
   
 String str;
 int a;
-str="JLC";
+str="trishul";
 a=99;
 
 System.out.println(str);
